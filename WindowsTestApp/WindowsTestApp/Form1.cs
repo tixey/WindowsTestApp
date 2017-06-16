@@ -19,7 +19,7 @@ namespace WindowsTestApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "Hello World!" + "version 2";
+            textBox1.Text = "Hello World!";
         }
     }
 }
