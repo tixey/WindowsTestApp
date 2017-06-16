@@ -10,3 +10,9 @@ C:\Users\n.tikhonov\WindowsTestApp\WindowsTestApp\WindowsTestApp\obj\Debug\Windo
 C:\Users\n.tikhonov\WindowsTestApp2\WindowsTestApp\WindowsTestApp\WindowsTestApp\bin\Debug\WindowsTestApp.exe.config
 C:\Users\n.tikhonov\WindowsTestApp2\WindowsTestApp\WindowsTestApp\WindowsTestApp\obj\Debug\WindowsTestApp.exe
 C:\Users\n.tikhonov\WindowsTestApp2\WindowsTestApp\WindowsTestApp\WindowsTestApp\obj\Debug\WindowsTestApp.pdb
+C:\Users\n.tikhonov\WindowsTestApp2\WindowsTestApp\WindowsTestApp\WindowsTestApp\bin\Debug\WindowsTestApp.exe
+C:\Users\n.tikhonov\WindowsTestApp2\WindowsTestApp\WindowsTestApp\WindowsTestApp\bin\Debug\WindowsTestApp.pdb
+C:\Users\n.tikhonov\WindowsTestApp2\WindowsTestApp\WindowsTestApp\WindowsTestApp\obj\Debug\WindowsTestApp.csprojResolveAssemblyReference.cache
+C:\Users\n.tikhonov\WindowsTestApp2\WindowsTestApp\WindowsTestApp\WindowsTestApp\obj\Debug\WindowsTestApp.Form1.resources
+C:\Users\n.tikhonov\WindowsTestApp2\WindowsTestApp\WindowsTestApp\WindowsTestApp\obj\Debug\WindowsTestApp.Properties.Resources.resources
+C:\Users\n.tikhonov\WindowsTestApp2\WindowsTestApp\WindowsTestApp\WindowsTestApp\obj\Debug\WindowsTestApp.csproj.GenerateResource.Cache
